@@ -1,0 +1,5 @@
+smiles,idx_code,chembl_code
+CCOC(=O)C1=C[C@@H](OC(CC)CC)[C@H](NC(C)=O)[C@@H](N)C1,x,chembl1200340
+[H][C@]1(OC(=C[C@H](NC(N)=N)[C@H]1NC(C)=O)C(O)=O)[C@H](O)[C@H](O)CO,x,chembl222813
+CC(=O)NC([C@H]1CC(C(O)=O)C[C@@H]1N=C(N)N)C(=O)N2CCCCCC2,88428,chembl293591
+CCN(CC)C(=O)[C@@H]1OC(C(O)O)=C[C@H](N=C(N)N)[C@H]1NC(C)=O,247120,chembl344548
